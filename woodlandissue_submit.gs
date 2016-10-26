@@ -1,7 +1,7 @@
 // Code adapted from this excellent gist: https://gist.github.com/bmcbride/62600e48274961819084
 // Generate GitHub Access Token with repo access
 
-var ghToken = "660d6bd0d06790cd805af60f9cd2cf9dd1490641";
+var ghToken = "<replace with token>";
 
 function onFormSubmit(e) {
 
